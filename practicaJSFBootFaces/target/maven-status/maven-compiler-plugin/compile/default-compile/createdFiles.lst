@@ -1,0 +1,6 @@
+com\mycompany\controllerimpl\ClienteCtrlImpl.class
+com\mycompany\configbd\Conexionbd.class
+com\mycompany\dao\ClienteDAO.class
+TestCliente.class
+com\mycompany\model\Cliente.class
+com\mycompany\controller\ClienteCtrl.class
